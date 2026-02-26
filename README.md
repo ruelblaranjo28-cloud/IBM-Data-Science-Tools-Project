@@ -1,9 +1,19 @@
 # IBM Data Science Tools Project
 
 ## Overview
-This project is part of the IBM Data Science Professional Certificate program.
+This project demonstrates practical data analysis using Python in Jupyter Notebook.
 
-It demonstrates hands-on implementation using Jupyter Notebook and Python for data analysis and exploration.
+The workflow includes data cleaning, exploratory data analysis (EDA), 
+and data visualization to extract insights from structured datasets 
+and support data-driven decision-making.
+
+## Skills Demonstrated
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Python Programming
+- Jupyter Notebook Workflow
 
 ## Tools Used
 - Python
