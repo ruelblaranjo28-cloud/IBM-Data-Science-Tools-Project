@@ -26,5 +26,5 @@ and support data-driven decision-making.
 
 ## Author
 Ruel Laranjo
-Computer Science Engineering Graduate
+Computer Systems Engineering Graduate
 Junior Data Scientist
