@@ -25,6 +25,6 @@ and support data-driven decision-making.
 - DataScienceEcosystem.ipynb
 
 ## Author
-Ruel Laranjo
+**Ruel Laranjo**
 Computer Systems Engineering Graduate
 Aspiring Data Scientist
